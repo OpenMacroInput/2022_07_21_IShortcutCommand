@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.ishortcutcommand",                              
+  "displayName": "DefaultCopyMe",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package contains definition, interface and utility for shortcut command that are small text without space or line return and represent actions to be interpreted.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/OpenMacroInput/2022_07_21_IShortcutCommand.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
